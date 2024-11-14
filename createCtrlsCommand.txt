@@ -1,0 +1,4 @@
+create_ctrl(
+        name='aaa', side='cn', index=None, size=1, color=18, shape="Sphere", cvs_pos=[], axis='x',
+        lock_attrs=['sx', 'sy', 'sz', 'rx', 'tz'], parent=None, animation_set=None, translation=(0, 0, 0), rotation=(0, 0, 0), scale=(1, 1, 1)
+)
