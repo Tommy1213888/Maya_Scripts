@@ -1,5 +1,3 @@
-
-
 import maya.cmds as cmds
 
 class base_commmand:

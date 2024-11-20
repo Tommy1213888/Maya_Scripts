@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-'''
-Description:
-Author:	chuanqin
-E-mail:	6744035640@qq.com
-Version:1.0
-Date:2024-09-05
-'''
 import os
 
 try:
