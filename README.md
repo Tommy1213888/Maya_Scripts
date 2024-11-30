@@ -32,7 +32,7 @@ The Maya Muscle Binding Plugin is designed to emulate Maya's native muscle syste
 ### Installation Steps
 
 1. **Download the Plugin**:
-   - Download the latest version of the plugin code from the [GitHub repository](https://github.com/YourRepositoryLink).
+   - Download the latest version of the plugin code from the [GitHub repository](https://github.com/Tommy1213888/Maya_Scripts.git).      
 
 2. **Drag and Drop Installation**:
    - Open Autodesk Maya.
