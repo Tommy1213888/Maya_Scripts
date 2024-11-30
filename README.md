@@ -142,51 +142,6 @@ The Maya Muscle Binding Plugin is designed to emulate Maya's native muscle syste
 4. **Preview Shape Switching**:
    - Use the plugin's functionality to switch between squeeze and stretch states, observing the muscle's shape changes in real-time.
 
-## Contribution Guidelines
-
-We welcome contributions to this plugin! Whether it's code enhancements, bug reports, or feature suggestions, your input is valuable.
-
-### How to Contribute
-
-1. **Fork the Repository**.
-2. **Create a New Branch**: `git checkout -b feature/YourFeature`.
-3. **Commit Your Changes**: `git commit -am 'Add new feature'`.
-4. **Push to the Branch**: `git push origin feature/YourFeature`.
-5. **Create a Pull Request**.
-
-### Reporting Issues
-
-Please submit your issues or suggestions on the [Issue Page](https://github.com/YourRepositoryLink/issues). We will address them as soon as possible.
-
-## License
-
-This plugin is open-sourced under the [MIT License](LICENSE), allowing free use and modification.
-
-## Contact Us
-
-If you have any questions or suggestions, feel free to reach out to us:
-
-- **Email**: your.email@example.com
-- **GitHub Issues**: [Submit an Issue](https://github.com/YourRepositoryLink/issues)
-
----
-
-## Additional Information
-
-### Plugin Structure
-
-- **DragToInstall.py**: Main installation script. Dragging this into Maya installs the plugin and adds a toolbar button.
-- **muscleUI.py**: User interface module. Provides the interface for creating and managing muscle bindings.
-- **icon/**: Contains plugin icon files (e.g., `muscle.png`).
-- **screenshots/**: Contains screenshots of the plugin interface and usage examples (e.g., `plugin_ui.png`, `muscle_example.png`).
-
-### Example Screenshots
-
-![Plugin Interface](screenshots/plugin_ui.png)
-
-![Muscle Binding Example](screenshots/muscle_example.png)
-
----
 
 ## Changelog
 
