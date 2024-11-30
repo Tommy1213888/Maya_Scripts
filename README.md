@@ -1,4 +1,4 @@
-# Maya Muscle Binding Plugin
+# Maya Muscle Rigging Tool V1
 
 ![Plugin Icon](icon/muscle.png)
 
