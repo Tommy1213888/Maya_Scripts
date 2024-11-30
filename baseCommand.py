@@ -1,3 +1,4 @@
+from turtle import shapesize
 import maya.cmds as cmds
 
 class base_commmand:
@@ -68,6 +69,7 @@ class base_commmand:
 
         ctrl = cmds.curve(degree = 1, knot = self.knot, point = self.point)
         ctrlShape = cmds.listRelatives(ctrl, shapes = True)[0]
+        ctrlShape = cmds.listRelatives(ctrl, shapes = True)
         ctrlShapeCV = cmds.select('{}.cv[0:7000]'.format(ctrlShape))
         cmds.scale(ctrlSize, ctrlSize, ctrlSize, ctrlShapeCV, relative = True, absolute = True)
         cmds.select(cl = True)
