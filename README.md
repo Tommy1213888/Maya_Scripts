@@ -28,7 +28,8 @@ The Maya Muscle Binding Plugin is designed to emulate Maya's native muscle syste
 - **Safe Deletion**: Offers options to clear the current muscle or all muscle bindings, ensuring related skin clusters are removed beforehand to prevent affecting other bindings.
 
 ## Installation Guide
-
+Demonstration Video
+[Maya Muscle Plugin](https://youtu.be/s_cA-PFcOI0?si=0AYmU71n4_2GQyAL).
 ### Installation Steps
 
 1. **Download the Plugin**:
