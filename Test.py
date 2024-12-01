@@ -1,2 +1,2 @@
 import maya.cmds as cmds
-cmds.CreatePolygonCube()
+cmds.CreatePolygonCube()dsfsdfg
